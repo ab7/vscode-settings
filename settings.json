@@ -1,0 +1,17 @@
+{
+    "telemetry.enableTelemetry": false,
+    "window.zoomLevel": 1,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "go.addTags": {
+    
+    },
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.vscode": true
+    },
+    "[javascript]": {
+        "editor.tabSize": 4
+    }
+}
