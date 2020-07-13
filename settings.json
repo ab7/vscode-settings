@@ -1,10 +1,12 @@
 {
     "telemetry.enableTelemetry": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
     "window.zoomLevel": 1,
     "go.formatTool": "goimports",
     "go.useLanguageServer": true,
     "go.addTags": {
-    
+
     },
     "files.autoSave": "onFocusChange",
     "files.exclude": {
@@ -13,5 +15,9 @@
     },
     "[javascript]": {
         "editor.tabSize": 4
+    },
+    "php.validate.run": "onType",
+    "[json]": {
+
     }
 }
