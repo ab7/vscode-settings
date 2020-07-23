@@ -19,5 +19,6 @@
     "php.validate.run": "onType",
     "[json]": {
 
-    }
+    },
+    "explorer.confirmDelete": false
 }
