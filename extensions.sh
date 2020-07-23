@@ -6,3 +6,4 @@ code --install-extension ms-vscode.Go
 code --install-extension percygrunwald.vscode-intellij-recent-files
 code --install-extension techer.open-in-browser
 code --install-extension vscodevim.vim
+code --install-extension mikestead.dotenv
