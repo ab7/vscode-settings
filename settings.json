@@ -11,7 +11,8 @@
     "files.autoSave": "onFocusChange",
     "files.exclude": {
         "**/__pycache__": true,
-        "**/.vscode": true
+        "**/.vscode": true,
+        "**/.mypy_cache": true
     },
     "[javascript]": {
         "editor.tabSize": 4
